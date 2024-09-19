@@ -44,7 +44,7 @@ I'm a passionate full-stack developer with over a decade of experience specializ
 
 ### 📫 Let's Connect:
 - **GitHub:** https://github.com/sukhchand
-- **LinkedIn:** [Your LinkedIn Link]
+- **LinkedIn:** https://www.linkedin.com/in/sukhchand-kisku
 - **Email:** sukhchand38@gmail.com
 - **Protfolio:** https://portfolio-sukhchand.vercel.app/
 
